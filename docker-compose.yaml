@@ -1,0 +1,7 @@
+version: '3.7'
+services:
+  booking-ui:
+    image: booking-ui:1.0-SNAPSHOT
+    mem_limit: 700m
+    ports:
+      - "3000:3000"
