@@ -1,0 +1,7 @@
+node_modules
+# Exclude version control files
+.git/
+.svn/
+# Skip test files
+tests/
+*.spec.js
