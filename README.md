@@ -4,7 +4,7 @@
 node: v16.15.1
 react: 18.2.0
 
-## This app create by using 
+## This app was created by using create-react-app
 ```zsh
 npx create-react-app .
 ```
